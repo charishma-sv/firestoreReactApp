@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/firestoreReactApp/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/firestoreReactApp/static/js/main.61e66ad3.chunk.js",
+    "main.js.map": "/firestoreReactApp/static/js/main.61e66ad3.chunk.js.map",
+    "runtime-main.js": "/firestoreReactApp/static/js/runtime-main.f09b73de.js",
+    "runtime-main.js.map": "/firestoreReactApp/static/js/runtime-main.f09b73de.js.map",
+    "static/js/2.79775f76.chunk.js": "/firestoreReactApp/static/js/2.79775f76.chunk.js",
+    "static/js/2.79775f76.chunk.js.map": "/firestoreReactApp/static/js/2.79775f76.chunk.js.map",
+    "static/js/3.8392efe2.chunk.js": "/firestoreReactApp/static/js/3.8392efe2.chunk.js",
+    "static/js/3.8392efe2.chunk.js.map": "/firestoreReactApp/static/js/3.8392efe2.chunk.js.map",
+    "index.html": "/firestoreReactApp/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/firestoreReactApp/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.79775f76.chunk.js.LICENSE.txt": "/firestoreReactApp/static/js/2.79775f76.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/firestoreReactApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f09b73de.js",
+    "static/js/2.79775f76.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.61e66ad3.chunk.js"
+  ]
+}
